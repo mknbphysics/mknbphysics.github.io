@@ -6,11 +6,8 @@ body {
 }
 
 header {
-    /*background-color: #333;*/
-    background-image:url('image2.jpg');
-    background-size:cover;
-    background-position:center;
-    /*color: #fff;*/
+    background-color: #00308F;
+    color: #fff;
     padding: 20px;
     text-align: center;
 }
@@ -58,7 +55,7 @@ p {
 }
 
 footer {
-    background-color: #333;
+    background-color: #00308F;
     color: #fff;
     text-align: center;
     padding: 20px;
